@@ -6,3 +6,5 @@ https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr.m3u8
 https://rtvelivestream.akamaized.net/segments/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-id="24Horas.ES" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Informativos" tvg-name="24h",24h
 https://rtvelivestream.akamaized.net/segments/24h/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-id="TDP.ES" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Deportivos" tvg-name="Teledeporte",Teledeporte GEO
+https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr.m3u8
