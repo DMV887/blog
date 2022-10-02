@@ -15,3 +15,12 @@ https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="Aragón TV Int" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_aragon_tv_2016.png" group-title="Aragon" tvg-name="Aragon TV",Aragón TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+
+#EXTINF:-1 tvg-id="Canal 25 Barbastro.TV" tvg-logo="https://i.imgur.com/2BBGZ1H.png" group-title="Aragon" tvg-name="Canal 25 Barbastro",Canal 25 Barbastro
+https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
+
+#EXTINF:-1 tvg-id="Alcarria.TV" tvg-logo="https://i.imgur.com/pzJAYan.png" group-title="Guadalajara" tvg-name="Alcarria TV",Alcarria TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+
+#EXTINF:-1 tvg-id="Canal 33 Madrid.TV" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1zJpDIX.png" group-title="Madrid" tvg-name="Canal 33 Madrid",Canal 33 Madrid
+https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
