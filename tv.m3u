@@ -54,3 +54,6 @@ https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 
 #EXTINF:-1 tvg-id="OndaCadiz.TV" tvg-logo="https://graph.facebook.com/ondacadiz/picture?width=200&height=200" group-title="Andalucía" tvg-name="Onda Cádiz",Onda Cádiz
 https://adc-hls.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="M95 Marbella.TV" tvg-logo="https://graph.facebook.com/m95tvmarbella/picture?width=200&height=200" group-title="Andalucía" tvg-name="M95 Marbella",M95 Marbella
+https://limited2.todostreaming.es/live/m95-livestream.m3u8
