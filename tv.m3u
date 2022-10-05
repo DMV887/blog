@@ -28,5 +28,8 @@ http://217.182.77.27/live/alcarriatv-livestream.m3u8
 #EXTINF:-1 tvg-id="Canal 33 Madrid.TV" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1zJpDIX.png" group-title="Madrid" tvg-name="Canal 33 Madrid",Canal 33 Madrid
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
 
-#EXTINF:-1 vg-id="TV de Girona.TV" tvg-logo="https://graph.facebook.com/tvgirona/picture?width=200&height=200" group-title="Cataluña" tvg-name="TV de Girona",TV de Girona
+#EXTINF:-1 tvg-id="TV de Girona.TV" tvg-logo="https://graph.facebook.com/tvgirona/picture?width=200&height=200" group-title="Cataluña" tvg-name="TV de Girona",TV de Girona
 http://ventdelnord.tv:8080/girona/directe.m3u8
+
+#EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Nacionales" tvg-name="TRECE",TRECE
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
