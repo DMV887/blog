@@ -76,6 +76,12 @@ https://5d8d85cf2c308.streamlock.net:1936/live/WXP6YT/playlist.m3u8
 #EXTINF:-1 tvg-id="InterAlmeria.TV" tvg-logo="https://graph.facebook.com/Interalmeriatv/picture?width=200&height=200" group-title="Andalucía" tvg-name="Interalmería TV",Interalmería TV
 https://interalmeria.tv/directo/live.m3u8
 
+#EXTINF:-1 tvg-id="OndaAlgeciras.TV" tvg-logo="https://graph.facebook.com/ondaalgecirastv/picture?width=200&height=200" group-title="Andalucía" tvg-name="Onda Algeciras TV",Onda Algeciras TV
+https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/esteponatelevision/picture?width=200&height=200" group-title="Andalucía" tvg-name="Estepona TV",Estepona TV
+https://cloudvideo.servers10.com:8081/8022/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
