@@ -118,6 +118,12 @@ https://streamer.zapitv.com/PTV-granada/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tele.gilena/picture?width=200&height=200" group-title="Andalucía" tvg-name="TeleGilena",TeleGilena
 https://5940924978228.streamlock.net/Directo1/Directo1/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/SevillaPTV/picture?width=200&height=200" group-title="Andalucía" tvg-name="PTV Sevilla",PTV Sevilla
+https://streamer.zapitv.com/PTV_sevilla/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/PTVCOR/picture?width=200&height=200" group-title="Andalucía" tvg-name="PTV Córdoba",PTV Córdoba
+https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
