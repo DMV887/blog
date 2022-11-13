@@ -154,6 +154,12 @@ http://51.254.47.72:1935/piera/smil:piera.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canal10emporda/picture?width=200&height=200" group-title="Cataluña" tvg-name="Canal 10 Empordà",Canal 10 Empordà
 http://ventdelnord.tv:8080/escala/directe.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/martelevisio/picture?width=200&height=200" group-title="Cataluña" tvg-name="Mar TV",Mar TV
+http://iptv.services.everywan.net:8080/martv-web/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSiBg6zgB4gKEo1fpTT9-mM7ORD7o2bQ74ZNB-1=s200" group-title="Cataluña" tvg-name="25 TV",25 TV
+https://cdnlive.shooowit.net/25televisiolive/smil:channel1.smil/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
