@@ -124,6 +124,12 @@ https://streamer.zapitv.com/PTV_sevilla/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/PTVCOR/picture?width=200&height=200" group-title="Andalucía" tvg-name="PTV Córdoba",PTV Córdoba
 https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8
 
+#EXTINF:-1 tvg-id="CanalCoin.TV" tvg-logo="https://graph.facebook.com/106272064368271/picture?width=200&height=200" group-title="Andalucía" tvg-name="Canal Coín",Canal Coín
+https://cloudtv.provideo.es/live/canalcoin-livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/TVM.Cordoba/picture?width=200&height=200" group-title="Andalucía" tvg-name="TVM Córdoba",TVM Córdoba
+https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
