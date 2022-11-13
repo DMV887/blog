@@ -142,6 +142,12 @@ https://ztnr.rtve.es/ztnr/4952053.m3u8
 #EXTINF:-1 tvg-id="BTV.TV" tvg-logo="https://graph.facebook.com/betevecat/picture?width=200&height=200" group-title="Cataluña" tvg-name="betevé",betevé
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
 
+#EXTINF:-1 tvg-id="8tvcat.TV" tvg-logo="https://graph.facebook.com/8tvcat/picture?width=200&height=200" group-title="Cataluña" tvg-name="8 TV",8 TV
+https://8tv-cellnex-hlslive.secure.footprint.net/egress/bhandler/tevecat/tvcat/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/tacdotze/picture?width=200&height=200" group-title="Cataluña" tvg-name="TAC 12",TAC 12
+https://ingest1-video.streaming-pro.com/nimble/tac12/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
