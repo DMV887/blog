@@ -148,6 +148,12 @@ https://8tv-cellnex-hlslive.secure.footprint.net/egress/bhandler/tevecat/tvcat/m
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tacdotze/picture?width=200&height=200" group-title="Cataluña" tvg-name="TAC 12",TAC 12
 https://ingest1-video.streaming-pro.com/nimble/tac12/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/WtsIUXtvmo0QQFYhj9qbxpttucZF0ZElx8oju9r7ISrKfn9GHBuRR7s9JN4YRnzvbLr6GiUtWQ=s200" group-title="Cataluña" tvg-name="Piera TV",Piera TV
+http://51.254.47.72:1935/piera/smil:piera.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/canal10emporda/picture?width=200&height=200" group-title="Cataluña" tvg-name="Canal 10 Empordà",Canal 10 Empordà
+http://ventdelnord.tv:8080/escala/directe.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
