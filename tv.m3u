@@ -97,6 +97,12 @@ https://streaming.cloud.innovasur.es/mmj/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/costadelsoltv/picture?width=200&height=200" group-title="Andalucía" tvg-name="CostadelSol TV",CostadelSol TV
 https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/BailenTv/picture?width=200&height=200" group-title="Andalucía" tvg-name="Bailén TV",Bailén TV
+http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
+
+#EXTINF:-1 tvg-id="101Antequera.TV" tvg-logo="https://graph.facebook.com/101tvAntequera/picture?width=200&height=200" group-title="Andalucía" tvg-name="101 TV Antequera",101 TV Antequera
+https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
