@@ -130,6 +130,12 @@ https://cloudtv.provideo.es/live/canalcoin-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TVM.Cordoba/picture?width=200&height=200" group-title="Andalucía" tvg-name="TVM Córdoba",TVM Córdoba
 https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/LaFabricaTV/picture?width=200&height=200" group-title="Andalucía" tvg-name="La Fábrica TV",La Fábrica TV
+https://mejorestrucos.com:5443/LiveApp/streams/854077030689510682594068.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ondacadiz/picture?width=200&height=200" group-title="Andalucía" tvg-name="Onda Cádiz 24h",Onda Cádiz 24h
+https://ondacadiztv.es:30443/octv/24h/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
