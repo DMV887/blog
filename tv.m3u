@@ -103,6 +103,15 @@ http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
 #EXTINF:-1 tvg-id="101Antequera.TV" tvg-logo="https://graph.facebook.com/101tvAntequera/picture?width=200&height=200" group-title="Andalucía" tvg-name="101 TV Antequera",101 TV Antequera
 https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/VivamovilTV/picture?width=200&height=200" group-title="Andalucía" tvg-name="Vivamóvil TV",Vivamóvil TV
+https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalMalaga.TV" tvg-logo="https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200" group-title="Andalucía" tvg-name="Canal Málaga",Canal Málaga
+https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="101Axarquía.TV" tvg-logo="https://graph.facebook.com/101tvaxarquia/picture?width=200&height=200" group-title="Andalucía" tvg-name="101 TV Axarquía",101 TV Axarquía
+https://limited38.todostreaming.es/live/101tv-webAxarquia.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
