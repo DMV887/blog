@@ -16,6 +16,9 @@ https://rtvelivestream.akamaized.net/segments/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Deportivos" tvg-name="Teledeporte",Teledeporte GEO
 https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr.m3u8
 
+#EXTINF:-1 tvg-id="ETBD.TV" tvg-logo="https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200" group-title="Deportivos" tvg-name="ETB Deportes",ETB Deportes
+https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8
+
 #EXTINF:-1 tvg-id="Aragón TV Int" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_aragon_tv_2016.png" group-title="Aragon" tvg-name="Aragon TV",Aragón TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
@@ -63,3 +66,9 @@ https://limited2.todostreaming.es/live/m95-livestream.m3u8
 
 #EXTINF:-1 tvg-id="Canal Sierra de Cadiz.TV" tvg-logo="https://graph.facebook.com/canalsierradecadiz/picture?width=200&height=200" group-title="Andalucía" tvg-name="Canal Sierra de Cádiz",Canal Sierra de Cádiz HD
 http://217.125.136.93:8080/canalsierradecadiz1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="Infantiles" tvg-name="Cartoon Network Latino",Cartoon Network Latino
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
